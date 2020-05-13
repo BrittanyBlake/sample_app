@@ -32,3 +32,4 @@
 
 # Ignore db test files.
 db/test.*
+.DS_Store
