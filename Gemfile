@@ -14,6 +14,8 @@ end
 group :production do
   gem 'pg'
 end
+#Use Bootstrap
+gem 'bootstrap-sass', '3.4.1'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
